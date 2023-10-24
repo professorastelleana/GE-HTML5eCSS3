@@ -9,6 +9,10 @@ body{
     background-color:#3876BF;
 }
 
+.teoria{
+    padding: 20px;
+}
+
 #subtitulo {
     font-size: 30px;
     color:#3876BF;
@@ -21,4 +25,8 @@ body{
  
 em strong{
     color:#132043;
+}
+
+.empimagem{
+    width: 30%;
 }
