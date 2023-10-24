@@ -6,19 +6,19 @@ body{
     text-align: center;
     font-size: 50px;
     color:#CDF5FD;
-    background-color: #00A9FF;
+    background-color:#3876BF;
 }
 
 #subtitulo {
     font-size: 30px;
-    color:#00A9FF;
+    color:#3876BF;
 }
 
 .texto {
     font-size: 20px;
-    color:  #00A9FF;
+    color: #3876BF;
 }
  
 em strong{
-    color: #00A9FF;
+    color:#132043;
 }
