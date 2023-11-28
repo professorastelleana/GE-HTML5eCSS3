@@ -10,9 +10,9 @@ body{
 }
 
 .cabecalho {
-    width: 100%;
-    margin: 10px;
-    padding: 5px;
+    padding: 20px;
+    background-color: #CDF5FD;
+    border-bottom: 2px solid #132043;
 }
 
 .teoria{
