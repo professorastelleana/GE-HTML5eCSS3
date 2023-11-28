@@ -17,8 +17,8 @@ body{
     border-radius: 10px;
 }
 
-.imcb { 
-    text-align: center;
+#cabecalho { 
+    width: 100%;
 }
 
 .teoria{
