@@ -16,6 +16,10 @@ body{
     border-bottom: 2px solid #132043;
 }
 
+#img-cab {
+    width: 100%;
+}
+
 .teoria{
     padding: 20px;
 }
